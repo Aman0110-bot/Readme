@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivansh</h1>
 <h3 align="center">I am an developer from Indore, working as an Associate in Nokia(Bengaluru)</h3>
-
+<p align="left">
+  With a passion for backend development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at Cognam, where I lead a team of talented developers.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0110-bot&label=Profile%20views&color=0e75b6&style=flat" alt="aman0110-bot" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **amanshrivansh04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amanshrivansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanshrivansh" height="30" width="40" /></a>
-<a href="https://fb.com/amanshrivansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanshrivansh" height="30" width="40" /></a>
-<a href="https://instagram.com/amanshrivansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanshrivansh" height="30" width="40" /></a>
-</p>
+
 
 <h2 align="left">Skills</h2>
 
@@ -82,6 +78,13 @@
   <img width="12" />
 </div>
 
+<h2 align="left">Get in Touch</h2>
+<div align="left">
+
+  [<img alt="instagram logo" height="35" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />](https://www.instagram.com/amanshrivansh/)
+  [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](mailto:amanshrivansh04@gmail.com)
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/amanshrivansh/)
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman0110-bot&show_icons=true&locale=en&layout=compact" alt="aman0110-bot" /></p>
 
