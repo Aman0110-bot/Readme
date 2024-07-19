@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Shrivansh</h1>
 <h3 align="center">I am an developer from Indore, working as an Associate in Nokia(Bengaluru)</h3>
 <p align="left">
-  With a passion for backend development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at Cognam, where I lead a team of talented developers.
+  With a passion for development and a keen interest in scalable system design, I thrive on solving complex problems and delivering efficient solutions. I am currently working at Nokia, where i am a part of team of talented developers.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0110-bot&label=Profile%20views&color=0e75b6&style=flat" alt="aman0110-bot" /> </p>
 
